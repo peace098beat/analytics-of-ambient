@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter-contrib-nbextensions = "*"
+pandas = "*"
+jupyter = "*"
+matplotlib = "*"
+japanize-matplotlib = "*"
+mosqito = "*"
+numpy = "*"
+tqdm = "*"
+
+[dev-packages]
+jupyter = "*"
+jupyter-tabnine = "*"
+
+[requires]
+python_version = "3.9"

@@ -1,0 +1,9 @@
+wav_path,loudness,sharpness,roughness,wav_name,wav_no
+../data/01_raw/1_boubakiki_mono/1_bouba_woman.mono.wav,0.11769886984768958,0.1018109135934373,0.00018512843636952266,1_bouba_woman,1
+../data/01_raw/1_boubakiki_mono/2_kiki_woman.mono.wav,0.0814126856203707,0.1668199477791108,0.0006456652175809099,2_kiki_woman,2
+../data/01_raw/1_boubakiki_mono/3_bouba_like_kiki_woman.mono.wav,0.14624437542663632,0.43933036207632764,0.0006754595291678246,3_bouba_like_kiki_woman,3
+../data/01_raw/1_boubakiki_mono/4_kiki_like_bouba_woman.mono.wav,0.0962361734304279,0.18937799271925015,3.3916083778458026e-05,4_kiki_like_bouba_woman,4
+../data/01_raw/1_boubakiki_mono/5_bouba_man.mono.wav,0.3350957399448836,0.24109389408880386,0.002297409885652794,5_bouba_man,5
+../data/01_raw/1_boubakiki_mono/6_kiki_man.mono.wav,0.16735009231059933,0.36567412059623944,0.000483245191333692,6_kiki_man,6
+../data/01_raw/1_boubakiki_mono/7_bouba_like_kiki_man.mono.wav,0.55874399424542,0.7784204958767281,0.008419526273461986,7_bouba_like_kiki_man,7
+../data/01_raw/1_boubakiki_mono/8_kiki_like_bouba_man.mono.wav,0.2507883750913262,0.514828654162725,0.0043704109519033625,8_kiki_like_bouba_man,8

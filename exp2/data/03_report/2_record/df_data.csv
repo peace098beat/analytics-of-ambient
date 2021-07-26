@@ -1,0 +1,10 @@
+wav_path,loudness,sharpness,roughness,wav_name
+../data/01_raw/2_record_mono/cicada_carpark.mono.wav,0.6566482359874104,4.611929084446742,0.001205113429857605,cicada_carpark
+../data/01_raw/2_record_mono/rain_lot.mono.wav,3.0407093419650515,1.4825045074531817,0.008727220129553846,rain_lot
+../data/01_raw/2_record_mono/rain_tap_umbrella.mono.wav,5.929063292904696,1.3673580484110626,0.5468350488959769,rain_tap_umbrella
+../data/01_raw/2_record_mono/raindrops_tap_ground(asphalt).mono.wav,3.907902796238632,2.3590402366307535,0.5344020033823266,raindrops_tap_ground(asphalt)
+../data/01_raw/2_record_mono/river_into_hand.mono.wav,2.7547991318400586,1.7102644877243662,0.015030939013777722,river_into_hand
+../data/01_raw/2_record_mono/river_stone_throw.mono.wav,2.6411444473936037,1.6676999847469096,0.10010917265722082,river_stone_throw
+../data/01_raw/2_record_mono/shinkansen.mono.wav,7.71898476768785,0.5644593752798176,0.058151354602161205,shinkansen
+../data/01_raw/2_record_mono/tokyocity_bakurocho.mono.wav,16.23837896925247,1.1753977401098723,0.04478056386882339,tokyocity_bakurocho
+../data/01_raw/2_record_mono/tokyostation.mono.wav,18.28224599021454,1.436602393104257,0.17019392179314966,tokyostation
